@@ -1,0 +1,14 @@
+{
+  "name": "book-management",
+  "version": "1.0.0",
+  "description": "Server  >> Storing certain book data\r         >> User Register\r         >> Subscriber",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "samarth",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
